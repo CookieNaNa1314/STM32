@@ -1,0 +1,23 @@
+# Keil MDK 编译产物
+Objects/
+Listings/
+*.axf
+*.hex
+*.bin
+*.map
+*.dep
+*.crf
+*.o
+*.d
+*.lnp
+*.scvd
+
+# STM32CubeMX 临时文件
+.ioc.backup*
+MX/
+
+# 其他无关文件
+*.bak
+*.log
+Thumbs.db
+.DS_Store
